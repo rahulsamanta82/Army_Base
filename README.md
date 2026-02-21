@@ -24,10 +24,6 @@ For non-windows users, you will need to have Java installed. Download the same g
    other units in safe distance (hard difficulty).
 
 
-### Demo playthrough video: ###
-
-https://www.youtube.com/watch?v=hUJWMpyWdVo
-
 ### Some screenshots: ###
 
 ![alt text](https://github.com/phu004/test/blob/master/test/rts_screenshot01.png)
