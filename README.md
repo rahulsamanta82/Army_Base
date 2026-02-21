@@ -28,9 +28,9 @@ For non-windows users, you will need to have Java installed. Download the same g
 
 ![alt text](pic/rts_screenshot02.png)
 
-![alt text](https://github.com/phu004/test/blob/master/test/rts_screenshot02.png)
+![alt text](pic/rts_screenshot01.png)
 
-![alt text](https://github.com/phu004/test/blob/master/test/rts_screenshot03.png)
+![alt text](pic/rts_screenshot03.png)
 
-![alt text](https://github.com/phu004/test/blob/master/test/rts_screenshot04.png)
+![alt text](pic/rts_screenshot04.png)
 
